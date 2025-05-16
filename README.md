@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey there, I'm Shreyash!
 
-<!--
-**shreyash-nimbargi/shreyash-nimbargi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science Engineering student who’s into building cool tech and simplifying the complicated. I love blending logic with creativity—whether it’s coding a slick UI or figuring out how machines can learn like humans.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+
+- 🌐 **DeepStock** – A smart stock analysis web app with a clean UI/UX.
+- 🤖 Brushing up skills in **AI/ML** and **Data Structures**.
+- 🛠️ Playing around with **System Programming** and **IoT** projects.
+
+---
+
+## 💡 Interests & Goals
+
+- ⚽ Football fan off-screen, code nerd on-screen.
+- 🧠 Love breaking down complex topics into simple, digestible bits.
+- 🌱 Constantly learning and building – the goal is to level up every day.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, C++, JavaScript
+- **Web**: HTML, CSS, React.js, Tailwind CSS
+- **Tools**: Git, GitHub, VS Code, Figma
+- **Others**: Machine Learning (scikit-learn, pandas), IoT tinkering, APIs
+
+---
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+- [Portfolio](https://your-portfolio-link.com) *(if you have one, I can help make it too)*  
+- 📩 Drop a message or collab idea – I’m always up for building something fun!
+
+---
+
+> *“Stay curious. Stay humble. And never stop building.”*
+
