@@ -14,7 +14,6 @@ I'm a passionate Computer Science Engineering student who’s into building cool
 
 ## 💡 Interests & Goals
 
-* ⚽ Football fan off-screen, code nerd on-screen.
 * 🧠 Love breaking down complex topics into simple, digestible bits.
 * 🌱 Constantly learning and building – the goal is to level up every day.
 
