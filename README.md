@@ -23,8 +23,8 @@ I'm a passionate Computer Science Engineering student who’s into building cool
 
 * **Languages**: Python, C++, JavaScript
 * **Web**: HTML, CSS, React.js, Tailwind CSS
-* **Tools**: Git, GitHub, VS Code, Figma
-* **Others**: Machine Learning (scikit-learn, pandas), IoT tinkering, APIs
+* **Tools**: Git, GitHub, VS Code
+* **Others**: Machine Learning (scikit-learn, pandas), APIs
 
 ---
 
