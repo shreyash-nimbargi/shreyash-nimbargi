@@ -1,6 +1,10 @@
 # 👋 Hey there, I'm Shreyash!
 
-I'm a passionate Computer Science Engineering student who’s into building cool tech and simplifying the complicated. I love blending logic with creativity—whether it’s coding a slick UI or figuring out how machines can learn like humans.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Java+%7C+DSA+%7C+Web+Dev+Enthusiast;Building+cool+projects+and+learning+daily" alt="Typing SVG" />
+</p>
+
+
 
 ---
 
@@ -30,9 +34,11 @@ I'm a passionate Computer Science Engineering student who’s into building cool
 
 ## 📊 GitHub Stats
 
-![shreyash-nimbargi's Stats](https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![shreyash-nimbargi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyash-nimbargi&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-nimbargi&theme=github_dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="700"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="380"/>
+</p>
 
 ---
 
