@@ -28,6 +28,8 @@ I'm a passionate Computer Science Engineering student who’s into building cool
 
 ---
 
+![shreyash-nimbargi's Stats](https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 📫 Let’s Connect!
 
 * [LinkedIn](https://www.linkedin.com/in/shreyash-nimbargi/)
