@@ -1,14 +1,10 @@
 <h1 align="center">Hey there 👋 I'm Shreyash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+Web+Dev+Enthusiast;Building+cool+projects+and+learning+daily" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shreyash-nimbargi&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="580"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="350"/>
 </p>
-
-
-
-
-
-
 
 
 
