@@ -35,4 +35,4 @@ I'm a passionate Computer Science Engineering student who’s into building cool
 
 ---
 
-> \*“Stay curious. Stay humble. And never stop building.”
+> \“Stay curious. Stay humble. And never stop building.”
