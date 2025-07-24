@@ -1,8 +1,14 @@
-# 👋 Hey there, I'm Shreyash!
+<h1 align="center">Hey there 👋 I'm Shreyash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Java+%7C+DSA+%7C+Web+Dev+Enthusiast;Building+cool+projects+and+learning+daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+Web+Dev+Enthusiast;Building+cool+projects+and+learning+daily" alt="Typing SVG" />
 </p>
+
+
+
+
+
+
 
 
 
