@@ -41,9 +41,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-nimbargi&theme=github_dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-nimbargi&theme=github_dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="580"/>
   <br><br>
- <img src="https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="380"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="350"/>
 </p>
 
 ---
