@@ -36,9 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shreyash-Nimbargi&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="580"/>
-
-
+  <img src="https://streak-stats.demolab.com?user=shreyash-nimbargi&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="580"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=shreyash-nimbargi&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="350"/>
 </p>
@@ -55,3 +53,5 @@
 ---
 
 > “Stay curious. Stay humble. And never stop building.”
+
+the streaks card is not showing
