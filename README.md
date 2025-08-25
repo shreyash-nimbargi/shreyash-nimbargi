@@ -54,4 +54,4 @@
 
 > “Stay curious. Stay humble. And never stop building.”
 
-the streaks card is not showing
+
